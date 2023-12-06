@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Eun%20Seok's%20GitHub&fontSize=90&animation=twinkling)
+<br/>
 
 <div align="center">
   <h3>Frontend Skills</h3> 
@@ -28,22 +29,19 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/css3-1572B6?style=flat&logo=css3&logoColor=white"/>
 </div>
 
-
-### Backend Skills
-
-
 <br/>
 <div align="center">
-<img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/mariadb-003545?style=flat&logo=mariadb&logoColor=white"/>
+  <h3>Backend Skills</h3> 
+  <img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/mariadb-003545?style=flat&logo=mariadb&logoColor=white"/>
 </div>
 
-### Tools
 <br/>
 <div align="center">
-<img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/jira_software-0052CC?style=flat&logo=jirasoftware&logoColor=white"/>
+  <h3>Tools</h3> 
+  <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/jira_software-0052CC?style=flat&logo=jirasoftware&logoColor=white"/>
 </div>
