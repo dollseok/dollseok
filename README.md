@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Eun Seok's GitHub&fontSize=90&animation=twinkling"/>
-![Eun Seok's GitHub](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Eun%20Seok's%20GitHub&fontSize=90&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Eun%20Seok's%20GitHub&fontSize=90&animation=twinkling)
 
 ### Frontend Skills
 
