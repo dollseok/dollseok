@@ -23,6 +23,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=Typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/styled_components-DB7093?style=flat&logo=styledcomponents&logoColor=white"/>
   <img src="https://img.shields.io/badge/redux-764ABC?style=flat&logo=redux&logoColor=white"/>
+  <br/>
   <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"/>
