@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Eun%20Seok's%20GitHub&fontSize=90&animation=twinkling)
 
 ### Frontend Skills
-
+<br/>
 <div align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white"/>
@@ -32,15 +32,19 @@ Here are some ideas to get you started:
 
 ### Backend Skills
 
+
+<br/>
+<div align="center">
 <img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/mariadb-003545?style=flat&logo=mariadb&logoColor=white"/>
-
+</div>
 
 ### Tools
-
+<br/>
+<div align="center">
 <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/jira_software-0052CC?style=flat&logo=jirasoftware&logoColor=white"/>
-
+</div>
